@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  font-family:cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.navbar{
+  background-color:#000;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.navbar-brand{
+  color: #fff;
+  font-size: 20px;
+  text-decoration: none;
+  
+}
+.navbar-brand{
+  text-align: center;
+   float: right;
+   margin-right: 900px;
+}
+.navbar-brand:hover{
+  color: grey;
+}
+.navbar ul{
+  float: right;
+  }
+.navbar ul li{
+  color: white;
+  margin: 20px;
+  float: right;
+  text-decoration: none;
+   list-style: none;
+   transition: 0.5s ease-in-out;
+   cursor: pointer;
+}
+.navbar ul li:hover{
+  color: gray;
+}
+
+input{
+  width: 200px;
+  height: 25px;
+  margin: 30px;
+  align-items: center;
+  text-align: center;
+}
+.row{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 50px;
+}
+
