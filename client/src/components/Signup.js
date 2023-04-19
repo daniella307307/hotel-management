@@ -40,7 +40,7 @@ export class Signup extends Component {
             <p className="p2">
               Already have an account?<a href="/login">Login</a>
             </p>
-            <button className="btnn">Sign Up</button>
+            <a href="/rooms"><button className="btnn">Sign Up</button></a>
           </form>
         </div>
       </div>

@@ -7,7 +7,7 @@ function Homescreen() {
       <p className='sub-header'>
         We are pleased to have you with us i hope that we get along well
       </p>
-      <button className='btn' >Join Us</button>
+      <button className='btn' >Get Started</button>
     </div>
   );
 }

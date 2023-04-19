@@ -5,7 +5,7 @@ function Navbar() {
     <div>
       <nav className="nav">
         <div>
-          <h1 className="nav-brand">SheyRooms</h1>
+          <h1 className="nav-brand">RElax</h1>
         </div>
         <div className="losi">
           <ul>
